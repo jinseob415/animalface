@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://animalface415.netlify.app/sitemap.xml
